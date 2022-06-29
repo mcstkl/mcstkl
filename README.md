@@ -18,3 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcstkl&show_icons=true&locale=en&layout=compact&hide=HTML" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcstkl&show_icons=true&locale=en" alt="mcstkl" /></p>
+[![mcstkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcstkl)](https://github.com/mcstkl/github-readme-stats)
